@@ -1,0 +1,6 @@
+﻿  Server.cpp
+C:\Users\TiMaN\Desktop\Практика 2\Server\Server\Server.cpp(82,53): warning C4244: аргумент: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\TiMaN\Desktop\Практика 2\Server\Server\Server.cpp(87,79): warning C4244: аргумент: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\TiMaN\Desktop\Практика 2\Server\Server\Server.cpp(122,68): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+C:\Users\TiMaN\Desktop\Практика 2\Server\Server\Set.h(50): warning C4715: Set::remove: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\TiMaN\Desktop\Практика 2\Server\x64\Debug\Server.exe

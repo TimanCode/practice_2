@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\TiMaN\Desktop\Практика 2\Client\Client\Client.h(61,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\TiMaN\Desktop\Практика 2\Client\Client\Client.h(73,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\TiMaN\Desktop\Практика 2\Client\Client\Client.h(104,12): warning C4244: аргумент: преобразование "SOCKET" в "int", возможна потеря данных
+  Client.vcxproj -> C:\Users\TiMaN\Desktop\Практика 2\Client\x64\Debug\Client.exe
